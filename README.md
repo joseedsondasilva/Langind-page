@@ -1,3 +1,4 @@
 # Langind-page
 
-link da página langid page: https://dreamy-bartik-5bee97.netlify.app/
+link da página langid page: https://romantic-hawking-07f876.netlify.app/
+
